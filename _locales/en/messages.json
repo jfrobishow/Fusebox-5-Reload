@@ -1,0 +1,27 @@
+{
+  "extensionName": {
+    "message": "Reload Fusebox 5",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds an item to pages context menu with options to trigger a reload of web applications built with the Fusebox 5 framework.\nThe default password can be specified in the Add-on options.\nBased on the legacy 'Fusebox 5 Reload' by sjudd",
+    "description": "Description of the add-on."
+  },
+
+  "load": { "message": "Load" },
+
+  "loadClean": { "message": "Load Clean" },
+
+  "parse": { "message": "Parse" },
+
+  "dontParse": { "message": "Don't Parse" },
+
+  "parseAll": { "message": "Parse All" },
+
+  "dontParseAll": { "message": "Don't Parse All" },
+
+  "execute": { "message": "Execute" },
+
+  "dontExecute": { "message": "Don't Exectute" }
+}
